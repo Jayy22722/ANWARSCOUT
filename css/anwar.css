@@ -19,16 +19,9 @@ header {
   z-index: 1000;
 }
 
-.logo {
-margin-left: 10px;
-}
-
-.logo strong {
-  margin-left: -19px;
-}
-
 .logo img{
 width: 45px;
+margin-left: 20px;
 }
 
 nav a {
